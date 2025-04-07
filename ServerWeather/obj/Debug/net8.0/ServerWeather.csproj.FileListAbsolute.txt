@@ -135,6 +135,9 @@ E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\refin
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ServerWeather.pdb
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ServerWeather.genruntimeconfig.cache
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ref\ServerWeather.dll
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\ServerWeather.staticwebassets.endpoints.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\staticwebassets\msbuild.ServerWeather.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\web.config
+E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\appsettings.Development.json
+E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\appsettings.json
+E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\ServerWeather.deps.json
+E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\ServerWeather.runtimeconfig.json
+E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\ServerWeather.staticwebassets.endpoints.json
