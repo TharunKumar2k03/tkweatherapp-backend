@@ -31,8 +31,8 @@ builder.Services.AddControllers();
 // Add MongoDB configuration
 builder.Services.Configure<MongoDBSettings>(options =>
 {
-    options.ConnectionString = "mongodb+srv://manikandansns05:swathy%4020@dbconnection.s6j7l.mongodb.net/?retryWrites=true&w=majority&appName=DBConnection";
-    options.DatabaseName = "WeatherPro";
+    options.ConnectionString = "mongodb+srv://mrtharunkumar2k03:poiuytrewq@weatherapp.detoca2.mongodb.net/?retryWrites=true&w=majority&appName=weatherapp";
+    options.DatabaseName = "Weatherdb";
 });
 
 var app = builder.Build();
