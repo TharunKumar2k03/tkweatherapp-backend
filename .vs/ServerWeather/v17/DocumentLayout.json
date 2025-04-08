@@ -1,42 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\",
+  "WorkspaceRootPath": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\controllers\\userfavoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\controllers\\userfavoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\entity\\userfavorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\entity\\userfavorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\entity\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\entity\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\entity\\addcityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\entity\\addcityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|d:\\study\\wisework\\weatherapp\\serverweather\\serverweather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\controllers\\userfavoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\controllers\\userfavoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\entity\\userfavorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\entity\\userfavorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\entity\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\entity\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\entity\\addcityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\entity\\addcityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|e:\\blazorapp\\blazorapp\\theweatherappbackend\\serverweather\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0180ADE-5666-48E4-83CB-D848FCE0BC0C}|ServerWeather\\ServerWeather.csproj|solutionrelative:serverweather\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,6 +52,10 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -58,23 +64,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ServerWeather\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ServerWeather\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T12:11:44.218Z"
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServerWeather\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServerWeather\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T06:22:03.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserFavoritesController.cs",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Controllers\\UserFavoritesController.cs",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Controllers\\UserFavoritesController.cs",
               "RelativeDocumentMoniker": "ServerWeather\\Controllers\\UserFavoritesController.cs",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Controllers\\UserFavoritesController.cs",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Controllers\\UserFavoritesController.cs",
               "RelativeToolTip": "ServerWeather\\Controllers\\UserFavoritesController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvxwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,23 +90,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ServerWeather\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ServerWeather\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T05:05:03.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Entity\\WeatherForecast.cs",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Entity\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ServerWeather\\Entity\\WeatherForecast.cs",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Entity\\WeatherForecast.cs",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Entity\\WeatherForecast.cs",
               "RelativeToolTip": "ServerWeather\\Entity\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Program.cs",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Program.cs",
               "RelativeDocumentMoniker": "ServerWeather\\Program.cs",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Program.cs",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Program.cs",
               "RelativeToolTip": "ServerWeather\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AddCityRequest.cs",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Entity\\AddCityRequest.cs",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Entity\\AddCityRequest.cs",
               "RelativeDocumentMoniker": "ServerWeather\\Entity\\AddCityRequest.cs",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Entity\\AddCityRequest.cs",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Entity\\AddCityRequest.cs",
               "RelativeToolTip": "ServerWeather\\Entity\\AddCityRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserFavorites.cs",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Entity\\UserFavorites.cs",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Entity\\UserFavorites.cs",
               "RelativeDocumentMoniker": "ServerWeather\\Entity\\UserFavorites.cs",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\Entity\\UserFavorites.cs",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Entity\\UserFavorites.cs",
               "RelativeToolTip": "ServerWeather\\Entity\\UserFavorites.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,24 +148,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\appsettings.Development.json",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ServerWeather\\appsettings.Development.json",
-              "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\appsettings.Development.json",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\appsettings.Development.json",
               "RelativeToolTip": "ServerWeather\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T05:02:09.703Z"
+              "WhenOpened": "2025-01-20T05:02:09.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerWeather\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\BlazorApp\\BlazorApp\\TheWeatherAppBackend\\ServerWeather\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerWeather\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:11:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\appsettings.json",
-              "RelativeDocumentMoniker": "ServerWeather\\appsettings.json",
               "ToolTip": "D:\\study\\wisework\\WeatherApp\\ServerWeather\\ServerWeather\\appsettings.json",
-              "RelativeToolTip": "ServerWeather\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-17T12:23:23.567Z"

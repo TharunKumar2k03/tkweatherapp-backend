@@ -86,7 +86,6 @@ E:\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ServerWeather.g
 E:\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ref\ServerWeather.dll
 E:\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ServerWeather.sourcelink.json
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\appsettings.Development.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\appsettings.json
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\ServerWeather.exe
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\ServerWeather.deps.json
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\ServerWeather.runtimeconfig.json
@@ -135,9 +134,3 @@ E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\refin
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ServerWeather.pdb
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ServerWeather.genruntimeconfig.cache
 E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\obj\Debug\net8.0\ref\ServerWeather.dll
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\web.config
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\appsettings.Development.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\appsettings.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\ServerWeather.deps.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\ServerWeather.runtimeconfig.json
-E:\BlazorApp\BlazorApp\TheWeatherAppBackend\ServerWeather\bin\Debug\net8.0\publish\ServerWeather.staticwebassets.endpoints.json
