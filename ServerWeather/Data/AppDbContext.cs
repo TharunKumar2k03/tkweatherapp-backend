@@ -1,20 +1,18 @@
 ﻿using MongoDB.Driver;
 using ServerWeather.Entity;
-using System.Collections.Generic;
+using Microsoft.Extensions.Options;
+using ServerWeather.Models;  // Updated namespace
 
 namespace ServerWeather.Data
 {
-  public class AppDbContext
+    public class AppDbContext
     {
         private readonly IMongoDatabase _database;
 
-        public AppDbContext(IConfiguration configuration)
+        public AppDbContext(IOptions<MongoDBSettings> mongoDBSettings)
         {
-            var connectionStrings = configuration.GetConnectionString("MongoDb");
-            var databaseName = configuration.GetConnectionString("Database");
-
-            var Client = new MongoClient(connectionStrings);
-            _database = Client.GetDatabase(databaseName);
+            var Client = new MongoClient(mongoDBSettings.Value.ConnectionString);
+            _database = Client.GetDatabase(mongoDBSettings.Value.DatabaseName);
         }
 
         public IMongoCollection<WeatherForecast> WeatherForecast =>
@@ -22,7 +20,5 @@ namespace ServerWeather.Data
 
         public IMongoCollection<UserFavorites> FavoriteCity =>
             _database.GetCollection<UserFavorites>("Favourites");
-
     }
-
 }

@@ -3,7 +3,7 @@ using MongoDB.Driver;
 using ServerWeather.Data;
 using System.Net.Mail;
 using System.Net;
-
+using ServerWeather.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -27,6 +27,13 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddSingleton<AppDbContext>();
 builder.Services.AddControllers();
+
+// Add MongoDB configuration
+builder.Services.Configure<MongoDBSettings>(options =>
+{
+    options.ConnectionString = "mongodb+srv://manikandansns05:swathy%4020@dbconnection.s6j7l.mongodb.net/?retryWrites=true&w=majority&appName=DBConnection";
+    options.DatabaseName = "WeatherPro";
+});
 
 var app = builder.Build();
 
