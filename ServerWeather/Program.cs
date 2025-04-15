@@ -18,11 +18,10 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
     {
-        builder.WithOrigins("https://tkweatherapp-production.up.railway.app")  // Remove trailing slash
+        builder.SetIsOriginAllowed(origin => true) // Warning: This is permissive, use in development only
                .AllowAnyMethod()
                .AllowAnyHeader()
-               .AllowCredentials()
-               .SetIsOriginAllowed(_ => true); // Be careful with this in production
+               .AllowCredentials();
     });
 });
 
@@ -48,7 +47,18 @@ if (app.Environment.IsDevelopment())
 // Comment out HTTPS redirection since we're not using HTTPS in development
 //app.UseHttpsRedirection();
 
+// Ensure correct middleware order
 app.UseRouting();
+
+// Add headers to disable caching
+app.Use(async (context, next) =>
+{
+    context.Response.Headers["Cache-Control"] = "no-cache, no-store, must-revalidate";
+    context.Response.Headers["Pragma"] = "no-cache";
+    context.Response.Headers["Expires"] = "0";
+    await next();
+});
+
 app.UseCors("AllowAll");
 app.UseAuthorization();
 
