@@ -14,16 +14,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient();
 
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAll", builder =>
-    {
-        builder.SetIsOriginAllowed(origin => true) // Warning: This is permissive, use in development only
-               .AllowAnyMethod()
-               .AllowAnyHeader()
-               .AllowCredentials();
-    });
-});
+
 
 builder.Services.AddSingleton<AppDbContext>();
 builder.Services.AddControllers();
