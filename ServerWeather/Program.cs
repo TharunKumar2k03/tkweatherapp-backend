@@ -18,7 +18,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
     {
-        builder.AllowAnyOrigin()  // Your Blazor app URL
+        builder.WithOrigins("https://tkweatherapp-production.up.railway.app/")  // Your Blazor app URL
                .AllowAnyMethod()
                .AllowAnyHeader()
                .AllowCredentials();
