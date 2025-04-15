@@ -18,10 +18,11 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
     {
-        builder.WithOrigins("https://tkweatherapp-production.up.railway.app/")  // Your Blazor app URL
+        builder.WithOrigins("https://tkweatherapp-production.up.railway.app")  // Remove trailing slash
                .AllowAnyMethod()
                .AllowAnyHeader()
-               .AllowCredentials();
+               .AllowCredentials()
+               .SetIsOriginAllowed(_ => true); // Be careful with this in production
     });
 });
 
@@ -47,6 +48,7 @@ if (app.Environment.IsDevelopment())
 // Comment out HTTPS redirection since we're not using HTTPS in development
 //app.UseHttpsRedirection();
 
+app.UseRouting();
 app.UseCors("AllowAll");
 app.UseAuthorization();
 
