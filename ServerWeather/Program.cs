@@ -14,7 +14,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient();
 
-
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", builder =>
+    {
+        builder.WithOrigins("https://tkweatherapp-production.up.railway.app")
+               .AllowAnyMethod()
+               .AllowAnyHeader()
+               .AllowCredentials()
+               .WithExposedHeaders("*")
+               .SetIsOriginAllowed(_ => true);
+    });
+});
 
 builder.Services.AddSingleton<AppDbContext>();
 builder.Services.AddControllers();
@@ -50,7 +61,9 @@ app.Use(async (context, next) =>
     await next();
 });
 
-app.UseCors("AllowAll");
+// Move CORS middleware before routing
+app.UseCors("AllowAll"); // Move this line before UseRouting
+app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllers();
